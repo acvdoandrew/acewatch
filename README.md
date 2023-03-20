@@ -1,5 +1,5 @@
 # Netflix Clone
-A Full Stack Netflix Clone.
+A full stack Netflix Clone that allows users to log in with credentials, or use Google Auth or Github Auth, with a functional favorite list and video player.
 
 ## Screenshots
 ![Auth Page](https://i.imgur.com/qNeZ9eL.png)
